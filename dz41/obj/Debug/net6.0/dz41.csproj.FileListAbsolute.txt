@@ -1,0 +1,15 @@
+D:\GIT\dzCsharp\seminar6\dz41\bin\Debug\net6.0\dz41.exe
+D:\GIT\dzCsharp\seminar6\dz41\bin\Debug\net6.0\dz41.deps.json
+D:\GIT\dzCsharp\seminar6\dz41\bin\Debug\net6.0\dz41.runtimeconfig.json
+D:\GIT\dzCsharp\seminar6\dz41\bin\Debug\net6.0\dz41.dll
+D:\GIT\dzCsharp\seminar6\dz41\bin\Debug\net6.0\dz41.pdb
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\dz41.csproj.AssemblyReference.cache
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\dz41.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\dz41.AssemblyInfoInputs.cache
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\dz41.AssemblyInfo.cs
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\dz41.csproj.CoreCompileInputs.cache
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\dz41.dll
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\refint\dz41.dll
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\dz41.pdb
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\dz41.genruntimeconfig.cache
+D:\GIT\dzCsharp\seminar6\dz41\obj\Debug\net6.0\ref\dz41.dll
